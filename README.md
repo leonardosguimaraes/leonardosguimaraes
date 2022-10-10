@@ -5,10 +5,16 @@ Sou desenvolvedor Front-End e pretendo futuramente me tornar programador FullSta
 
 🌱 Atualmente estou aprendendo linguagem de programação JavaScript, e em breve estarei iniciando o aprendizado com o framework React
 
+__________________________________________________
 
+Tecnologias nas quais eu trabalho:
+
+JavaScript, HTML, CSS
+
+__________________________________________________
 
 Entre em contato comigo por:
-__________________________________________________
+
 📫 E-mail: leo_guimaraes@ymail.com
 
 💭 Meu linkedIn: https://www.linkedin.com/in/leonardo-soares-guimaraes/
