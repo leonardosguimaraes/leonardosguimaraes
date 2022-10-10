@@ -3,7 +3,7 @@ __________________________________________________
 
 Sou desenvolvedor Front-End e pretendo futuramente me tornar programador FullStack.
 
-🌱 Atualmente estou aprendendo linguagem de programação JavaScript, e em breve estarei iniciando o aprendizado com o framework React
+🌱 Atualmente estou aprendendo linguagem de programação JavaScript, e em breve estarei iniciando o aprendizado com o framework React.js
 
 __________________________________________________
 
