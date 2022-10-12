@@ -1,7 +1,7 @@
 👋 Olá Pessoal! Eu sou Leonardo Soares Guimarães
 __________________________________________________
 
-Sou desenvolvedor Front-End e pretendo futuramente me tornar programador FullStack.
+Sou desenvolvedor Front-End
 
 🌱 Atualmente estou aprendendo linguagem de programação JavaScript, e em breve estarei iniciando o aprendizado com o framework React.js
 
