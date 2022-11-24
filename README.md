@@ -26,5 +26,3 @@ Entre em contato comigo por:
 leonardosguimaraes/leonardosguimaraes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![snake_gif](https://github.com/leonardosguimaraes/leonardosguimaraes/blob/output/git-hub-contribution-grid-snake.svg)
