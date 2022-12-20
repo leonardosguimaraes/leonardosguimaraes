@@ -1,21 +1,21 @@
 👋 Olá Pessoal! Eu sou Leonardo Soares Guimarães
-__________________________________________________
+##
 
 Sou desenvolvedor Front-End
 
 🌱 Para criação dos projetos, utilizo nos projetos as tecnologias HTML, CSS e a linguagem de programação JavaScript. E no momento estou estudando Node.Js e o framework React.js
-__________________________________________________
+##
 
 Tecnologias nas quais utilizo:
 
 JavaScript, HTML, CSS
-__________________________________________________
+##
 
 Tecnologias em aprendizado:
 
 Node.Js e React.Js
 
-__________________________________________________
+##
 
 Entre em contato comigo por:
 
