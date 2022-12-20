@@ -13,7 +13,7 @@ __________________________________________________
 
 Tecnologias em aprendizado:
 
-Node.Js, React.Js e ReactNative
+Node.Js e React.Js
 
 __________________________________________________
 
