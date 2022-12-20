@@ -11,9 +11,9 @@ Tecnologias nas quais utilizo:
 JavaScript, HTML, CSS
 __________________________________________________
 
-Tecnologias em aprendizado e aprimoramento:
+Tecnologias em aprendizado:
 
-Node, React, ReactNative e Typescript
+Node, React e ReactNative
 
 __________________________________________________
 
