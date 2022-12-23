@@ -1,4 +1,4 @@
-👋 Olá Pessoal! 
+<h2>👋 Olá Pessoal! </h2> 
 <br>
 Me chamo Leonardo Soares Guimarães, sou aluno DevClub e desenvolvedor Front-End em formação. 
 <br>
