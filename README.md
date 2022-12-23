@@ -1,5 +1,4 @@
 <h2>👋 Olá Pessoal! </h2> 
-<br>
 Me chamo Leonardo Soares Guimarães, sou aluno DevClub e desenvolvedor Front-End em formação. 
 <br>
 Para criação dos projetos utilizo as tecnologias HTML, CSS e a linguagem de programação JavaScript. No momento estou estudando Node.Js e o framework React.
