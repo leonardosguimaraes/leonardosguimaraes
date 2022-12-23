@@ -3,7 +3,7 @@
 
 Sou desenvolvedor Front-End
 
-🌱 Para criação dos projetos, utilizo nos projetos as tecnologias HTML, CSS e a linguagem de programação JavaScript. E no momento estou estudando Node.Js e o framework React.js
+🌱 Para criação dos projetos, utilizo as tecnologias HTML, CSS e a linguagem de programação JavaScript. No momento estou estudando Node.Js e o framework React.js
 ##
 
 Tecnologias nas quais utilizo:
