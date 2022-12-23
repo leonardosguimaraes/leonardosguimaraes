@@ -1,20 +1,23 @@
 👋 Olá Pessoal! 
 <br>
-Me chamo Leonardo Soares Guimarães e sou desenvolvedor Front-End. Para criação dos projetos utilizo as tecnologias HTML, CSS e a linguagem de programação JavaScript. No momento estou estudando Node.Js e o framework React.
+Me chamo Leonardo Soares Guimarães, sou aluno DevClub e desenvolvedor Front-End em formação. 
+<br>
+Para criação dos projetos utilizo as tecnologias HTML, CSS e a linguagem de programação JavaScript. No momento estou estudando Node.Js e o framework React.
 
 ##
 
-Tecnologias que utilizo:
+Possuo conhecimento em:
 
 <span>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
 </span>
 
 ##
 
-Tecnologias em aprendizado:
+Linguagens em aprendizado:
 
  <p>
  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
